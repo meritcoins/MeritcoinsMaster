@@ -28,3 +28,8 @@ OPENSOURSE
 TRANSPERENTCY
 
 TRADETABLE IN EXCHANGE NOW
+
+TECHNOLOGY
+Yes, MRC believes whole-heartedly in the power of simplicity and making digital currency approachable to non-technical users. But that doesn’t mean that we don’t take the underpinning technology seriously.  MINING
+The MRC approach to mining is one of its core innovations.           
+POS systems have an economic incentive. FAIRNESS, WHILE PRESERVING OPENNESS TO ALL.
